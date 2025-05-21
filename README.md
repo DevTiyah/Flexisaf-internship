@@ -1,3 +1,9 @@
+Week 2 - Version Control - GIT&GITHUB
+Deliverables overview: 
+📊 A presentation or practice documentation of Git concepts.
+💻 Repository setup using the command line, practicing a few Git commands.
+🔗 A link to your GitHub repo (to include in your email).
+
 Week 1 - JavaScript ES6 Features
 
 ✅ Topics Covered
