@@ -1,0 +1,41 @@
+Git & GitHub – Version Control Practice
+🔹 Topics Practiced:
+
+1. Repository Setup
+- Initialized a local repo: git init
+- Created GitHub repo: Repo Link
+
+2. Cloning
+- Cloned using: git clone https://github.com/DevTiyah/Flexisaf-internship
+
+3. Branches
+- Created a branch: git checkout -b main
+- Renamed branch: git branch -m master
+
+4. Committing
+- Staged changes: git add .
+- Committed changes: git commit -m "Initial commit"
+
+5. Pulling & Pushing
+- Pulled from remote: git pull origin main
+- Pushed to GitHub: git push origin feature-branch
+
+6. Fetching & Merging
+- Fetched changes: git fetch
+- Merged changes: git merge origin/main
+
+7. Undoing/Reverting
+- Revert commit: git revert <commit-hash>
+- Undo staged files: git reset
+
+8. Pull Requests
+- Created PR from master branch to main on GitHub
+- Reviewed, merged, and reverted PR
+
+💡 Recommended Practice Git Commands (with CLI):
+- Initialize repo: git init
+- Connect to remote: git remote add origin https://github.com/your-username/week-2.git
+- Create & switch to new branch: git checkout -b dev
+- Add and commit changes: git add . , git commit -m "Initial version control setup"
+- Push to remote: git push -u origin dev
+- Fetch and merge: git fetch, git merge origin/main
